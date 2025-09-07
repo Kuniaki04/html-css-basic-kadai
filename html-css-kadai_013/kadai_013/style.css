@@ -92,7 +92,7 @@ PC用のスタイル
     z-index: 100;
   }
 
-  #nav-spul{
+  #nav-sp ul{
     padding-left: 0;
   }
 
@@ -100,7 +100,7 @@ PC用のスタイル
     list-style: none;
   }
 
-  #cloes{
+  #close{
     position: absolute;
     top: 20px;
     right:20px
@@ -129,7 +129,7 @@ PC用のスタイル
     color: #ffffff;
   }
 
-  #nav-sp.menu{
+  #nav-sp .menu{
     text-decoration: none;
     display: block;
     margin: 0 20px 0 20px;
